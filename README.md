@@ -1,4 +1,4 @@
-# redux-lens [![npm version](https://img.shields.io/npm/v/redux-lens.svg?style=flat)](https://www.npmjs.com/package/redux-lens) [![Build Status](https://travis-ci.org/dashed/redux-lens.svg?branch=master)](https://travis-ci.org/dashed/redux-lens)
+# redux-lens [![npm version](https://img.shields.io/npm/v/redux-lens.svg?style=flat)](https://www.npmjs.com/package/redux-lens) [![Build Status](https://travis-ci.org/dalefrancis88/redux-lens.svg?branch=master)](https://travis-ci.org/dalefrancis88/redux-lens)
 
 > Apply a redux reducer and an action at the specified path of your application state tree (i.e. redux store).
 
